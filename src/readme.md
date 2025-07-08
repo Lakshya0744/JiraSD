@@ -1,1 +1,0 @@
-This is a System Design Pracrtice Repo for JIRA Design
